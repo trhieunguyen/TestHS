@@ -1,3 +1,3 @@
 # TestHS
-Open TestHS.pbix via Microsoft PowerBI
-Open TestHS.sql via Microsoft SQL Server
+Please Open TestHS.pbix via Microsoft PowerBI
+Please Open TestHS.sql via Microsoft SQL Server
